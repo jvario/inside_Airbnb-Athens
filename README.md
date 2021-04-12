@@ -42,7 +42,7 @@ This repository [azureai-2021-team1](https://github.com/codehub-learn/azureai-20
 	
 ## Authors
 
-* **Giannis Variozidis**, **podysseas**,**vmoulop**,**katerpont**,**antonesgiouris** - *Initial work* - [jvario](https://github.com/jvario) -[podysseas](https://github.com/podysseas) -[vmoulop](https://github.com/vmoulop) -[katerpont](https://github.com/katerpont) -[antonesgiouris](https://github.com/antonesgiouris)
+* **jvario**,**podysseas**,**vmoulop**,**katerpont** & **antonesgiouris** - *Initial work* - [jvario](https://github.com/jvario) -[podysseas](https://github.com/podysseas) -[vmoulop](https://github.com/vmoulop) -[katerpont](https://github.com/katerpont) -[antonesgiouris](https://github.com/antonesgiouris)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
