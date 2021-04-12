@@ -1,5 +1,3 @@
-# azureai-2021-team1
-
 # I.  Introduction:
 
 #### Project Overview:
